@@ -1,0 +1,3 @@
+﻿  teanher.cpp
+teanher.obj : error LNK2005: main 已经在 hello.obj 中定义
+C:\Users\86134\Desktop\c++\1\hello\x64\Debug\hello.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
